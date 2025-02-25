@@ -1,0 +1,1 @@
+/home/naveen/Flutter/esp_32_bluetooth/build/app/intermediates/cxx/Debug/6ul226p7/obj/arm64-v8a

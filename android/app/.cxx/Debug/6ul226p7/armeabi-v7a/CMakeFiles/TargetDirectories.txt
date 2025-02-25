@@ -1,0 +1,2 @@
+/home/naveen/Flutter/esp_32_bluetooth/android/app/.cxx/Debug/6ul226p7/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/naveen/Flutter/esp_32_bluetooth/android/app/.cxx/Debug/6ul226p7/armeabi-v7a/CMakeFiles/rebuild_cache.dir
