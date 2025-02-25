@@ -1,4 +1,4 @@
-package com.example.esp_32_bluetooth
+package com.bleData.ai
 
 import io.flutter.embedding.android.FlutterActivity
 

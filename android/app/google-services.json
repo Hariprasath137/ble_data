@@ -7,13 +7,13 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:220537298934:android:63d7cd34f599ba222c31d7",
+        "mobilesdk_app_id": "1:220537298934:android:013787da970935032c31d7",
         "android_client_info": {
-          "package_name": "com.example.esp_32_bluetooth"
+          "package_name": "com.bleData.ai"
         }
       },
       "oauth_client": [],
-      "api_key": [  
+      "api_key": [
         {
           "current_key": "AIzaSyBMY2T_U_mcn5EaRW0MypSAxzYTipqtNac"
         }
