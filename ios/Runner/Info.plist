@@ -43,9 +43,7 @@
 	</array>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
-	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>We need Bluetooth access to connect to your devices.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
-	<true/>	
+	<true/>
 </dict>
 </plist>
